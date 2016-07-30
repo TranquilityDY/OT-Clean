@@ -1,5 +1,5 @@
 @echo off
-echo •ø¶b≤M∞£®t≤Œ©Uß£¿…Æ◊§§°AΩ–µy≠‘......
+echo Hi,I'm Tranquility CleanerÔºåPleace wait a moment......
 del /f /s /q %systemdrive%\*.tmp
 del /f /s /q %systemdrive%\*._mp
 del /f /s /q %systemdrive%\*.log
@@ -15,5 +15,5 @@ del /f /q %userprofile%\recent\*.*
 del /f /s /q "%userprofile%\Local Settings\Temporary Internet Files\*.*"
 del /f /s /q "%userprofile%\Local Settings\Temp\*.*"
 del /f /s /q "%userprofile%\recent\*.*"
-echo ≤M∞£®t≤Œ©Uß£¿…Æ◊ßπ¶®°I°I
+echo FinishedÔºÅÔºÅ
 echo. & pause
